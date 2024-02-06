@@ -11,6 +11,6 @@ public class arrayMethods {
         for (int i = 0; i < numbers.size(); i++) {
             System.out.print(numbers.get(i));
         }
-        System.out.println(numbers.);
+        System.out.println(numbers);
     }
 }
