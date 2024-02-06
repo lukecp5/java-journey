@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MultIfElse {
+public class ifelse {
    public static void main(String[] args) {
       Scanner scnr = new Scanner(System.in);
       int numberOfParts;
