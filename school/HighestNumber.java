@@ -21,6 +21,6 @@ public class HighestNumber {
         } else {
             System.out.println("The smallest is : " + num2);
         }
-
+        
     }
 }

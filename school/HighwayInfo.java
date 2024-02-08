@@ -1,3 +1,5 @@
+package archive.school;
+
 import java.util.Scanner;
 
 public class HighwayInfo {
@@ -16,6 +18,8 @@ public class HighwayInfo {
         // * Prompt user for highway number and store in usrHwy *
         System.out.println("Enter the highway number : ");
         usrHwy = in.nextInt();
+        
+        in.close();
 
         // Conditional statements to determine direction and actual highway number
         if (usrHwy % 2 == 0) {

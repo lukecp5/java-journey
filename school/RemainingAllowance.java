@@ -1,5 +1,6 @@
-// Integer dollarAmount is read from input. Write multiple if statements:
+package archive.school;
 
+// Integer dollarAmount is read from input. Write multiple if statements:
 // If dollarAmount is greater than or equal to 16, then output "Buy new shoes."
 // If dollarAmount is greater than 26, then output "Buy a new coat."
 // If dollarAmount is less than 1, then output "Save money."
@@ -23,6 +24,6 @@ public class RemainingAllowance {
         if (dollarAmount < 1) {
              System.out.println("Save money.");
         }
-
+        scnr.close();
    }
 }

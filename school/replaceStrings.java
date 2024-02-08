@@ -1,3 +1,5 @@
+package archive.school;
+
 import java.util.Scanner;
 
 public class replaceStrings {
