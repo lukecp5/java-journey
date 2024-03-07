@@ -1,4 +1,4 @@
-package school;
+package school.individualAssignments;
 import java.util.Scanner;
 
 public class LongestOf3 {

@@ -1,4 +1,4 @@
-package school;
+package school.individualAssignments;
 
 // add any needed import statements
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+package school.individualAssignments;
 /*
  * When the input integer variable numberOfTools is:
 

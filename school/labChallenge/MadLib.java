@@ -1,4 +1,4 @@
-package school;
+package school.labChallenge;
 import java.util.Scanner;
 
 public class MadLib {

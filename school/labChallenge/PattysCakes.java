@@ -1,4 +1,4 @@
-package school;
+package labChallenge;
 
 // import any necessary packages here below
 import java.util.Scanner;
@@ -35,7 +35,11 @@ public class PattysCakes {
 
         // Gets cupcake selections from user
         for (int i = 1; i <= numCupcakes; i++) {
+
+            // ! Instatiate selection to 0 to hold the user's selection
             int selection = 0;
+
+            
             while (selection >= 5 || selection < 1) {
                 System.out.print("Select cupcake #" + i + ": ");
                 selection = in.nextInt();

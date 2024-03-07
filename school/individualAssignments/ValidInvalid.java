@@ -1,4 +1,4 @@
-package school;
+package school.individualAssignments;
 public class ValidInvalid {
     public static void main(String[] args) {
         String keyString = "C2c57BF";

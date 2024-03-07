@@ -1,4 +1,4 @@
-package archive.school;
+package school.archive;
 
 import java.util.Scanner;
 

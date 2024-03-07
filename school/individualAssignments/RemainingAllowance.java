@@ -1,4 +1,4 @@
-package archive.school;
+package school.individualAssignments;
 
 // Integer dollarAmount is read from input. Write multiple if statements:
 // If dollarAmount is greater than or equal to 16, then output "Buy new shoes."

@@ -1,3 +1,4 @@
+package school.individualAssignments;
 import java.util.Scanner;
 
 public class TollCalc {
