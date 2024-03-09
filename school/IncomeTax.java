@@ -22,7 +22,6 @@ public class IncomeTax {
         System.out.println("\nEnter annual salary (0 to exit): ");
         annualSalary = scnr.nextInt();
 
-
         while (annualSalary > 0 && numSalaries < MAX_ELEMENTS) { // Valid annualSalary entered
             i = 0;
             taxRate = 0;
@@ -40,8 +39,12 @@ public class IncomeTax {
 
             taxToPay = (int) (annualSalary * taxRate); // Truncate tax to an integer amount
 
-            // FIXME: Insert code to include entries to the annual salaries and taxes to pay
-            // FIXME: tables. Replace the appropriate variables with the array reference.
+            // Insert code to include entries to the annual salaries and taxes to pay
+            // tables. Replace the appropriate variables with the array reference.
+            annualSalaries[numSalaries] = annualSalary;
+            taxesToPay[numSalaries] = taxToPay;
+            numSalaries++;
+
             System.out.println("Annual salary: " + annualSalary +
                     "\tTax rate: " + taxRate +
                     "\tTax to pay: " + taxToPay);
@@ -51,7 +54,15 @@ public class IncomeTax {
             annualSalary = scnr.nextInt();
         } // End outer while loop (valid annualSalary entered)
 
-        // FIXME: Challenge - add code to sum the annual salaries and taxes to pay
-        // and print the totals
+        // Challenge - add code to sum the annual salaries and taxes to pay
+        // and print the totals2
+        int totalSalaries = 0;
+        int totalTaxes = 0;
+        for (int j = 0; j < numSalaries; j++) {
+            totalSalaries += annualSalaries[j];
+            totalTaxes += taxesToPay[j];
+        }
+        System.out.println("\nTotal annual salaries: " + totalSalaries);
+        System.out.println("Total taxes to pay: " + totalTaxes);
     }
 }
