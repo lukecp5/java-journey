@@ -1,4 +1,4 @@
-package codetriage.scraper;
+package codetriagescraper.src.main.java.codetriage.scraper;
 
 /**
  * Hello world!
