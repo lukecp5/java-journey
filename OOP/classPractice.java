@@ -16,17 +16,33 @@ public class classPractice {
 
         System.out.println("Capacity: " + dataOrganizer.getCapacity());
         System.out.println("Updated Capacity: " + dataOrganizer.updateCapacity(1024000));
+
+        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+        System.out.println("Count: " + dataOrganizer.count());
+        System.out.println("Count: " + dataOrganizer.count());
+        System.out.println("Count: " + dataOrganizer.count());
+        System.out.println("Count: " + dataOrganizer.count());
+        System.out.println("Count: " + dataOrganizer.count());
+
+        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+        System.out.println("dataOrganizer.capacity: " + dataOrganizer.getCapacity());
     }
 }
 
 class DataOrganizer {
     private List<String> data;
     private int capacity;
+    public int count = 0;
 
     public DataOrganizer() {
         // Initialize the data list
         data = new ArrayList<>();
         capacity = 512000;
+    }
+
+    public int count() {
+        // count++;
+        return ++count;
     }
 
     public void addData(String newData) {
