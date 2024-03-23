@@ -1,3 +1,4 @@
+package intermediate;
 import java.util.Random;
 import java.util.Scanner;
 

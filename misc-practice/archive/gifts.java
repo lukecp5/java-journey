@@ -1,3 +1,4 @@
+package archive;
 import java.util.*;
 // import java.util.*;
 
@@ -30,7 +31,7 @@ class Solution {
         for (int i = 0; i < len;) {
             System.out.println("sorted[" + i + "]: " + sorted[i]);
         }
-        long remainingGifts = 0;
+        int remainingGifts = 0;
         // Calculate the sum of all elements in the sorted array
         for (int i = 0; i < len; i++) {
             remainingGifts += sorted[i];

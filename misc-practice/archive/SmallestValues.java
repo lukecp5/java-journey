@@ -1,3 +1,4 @@
+package archive;
 import java.util.Scanner;
 
 public class SmallestValues {

@@ -1,6 +1,7 @@
+package archive;
 import java.util.Scanner;
 
-public class Main {
+public class DashCounter {
 
     public static void main(String[] args) {
         int i;

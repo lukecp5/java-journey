@@ -1,3 +1,4 @@
+package intermediate;
 public class Recursion {
     //B Recursive method to calculate the factorial of a number
     public static int factorial(int n) {
