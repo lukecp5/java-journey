@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CitySystem",
+            "request": "launch",
+            "mainClass": "OOP.CitySystem",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "ArrComparison",
+            "request": "launch",
+            "mainClass": "archive.ArrComparison",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "archive.Main",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "OutputElements",
+            "request": "launch",
+            "mainClass": "archive.OutputElements",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "main2",
+            "request": "launch",
+            "mainClass": "archive.main2",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "midtermPractice",
+            "request": "launch",
+            "mainClass": "archive.midtermPractice",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "midtermPractice2",
+            "request": "launch",
+            "mainClass": "archive.midtermPractice2",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "replaceStrings",
+            "request": "launch",
+            "mainClass": "archive.replaceStrings",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "userNum",
+            "request": "launch",
+            "mainClass": "archive.userNum",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "Mia",
+            "request": "launch",
+            "mainClass": "challengeActivities.Mia",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "PizzaArea",
+            "request": "launch",
+            "mainClass": "challengeActivities.PizzaArea",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "PrismCalculations",
+            "request": "launch",
+            "mainClass": "challengeActivities.PrismCalculations",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "VolumeConversion",
+            "request": "launch",
+            "mainClass": "challengeActivities.VolumeConversion",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "individualAssignments.Main",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "CompareIntegers",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.CompareIntegers",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "GenesGreen",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.GenesGreen",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "HighestNumber",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.HighestNumber",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "HighestOf3",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.HighestOf3",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "HighwayInfo",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.HighwayInfo",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "IncomeTax",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.IncomeTax",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "LargestOf2",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.LargestOf2",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "LargestOf3",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.LargestOf3",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "LongestOf3",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.LongestOf3",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "RemainingAllowance",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.RemainingAllowance",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "SmallestOf3",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.SmallestOf3",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "TempConversion",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.TempConversion",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "TollCalc",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.TollCalc",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "ToolBoxData",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.ToolBoxData",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "ValidInvalid",
+            "request": "launch",
+            "mainClass": "individualAssignments.archive.ValidInvalid",
+            "projectName": "school_4783e38d"
+        }
+    ]
+}

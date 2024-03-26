@@ -1,3 +1,4 @@
+package individualAssignments.archive;
 
 // make any necessary imports here (for example, you will need a Scanner)
 import java.util.Scanner;

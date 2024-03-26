@@ -1,3 +1,4 @@
+package archive;
 // Lab Challenge Module 8 Part 1
 public class Main {
     public static void main(String[] args) {

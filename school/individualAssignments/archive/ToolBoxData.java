@@ -1,4 +1,4 @@
-package school.individualAssignments;
+package individualAssignments.archive;
 /*
  * When the input integer variable numberOfTools is:
 

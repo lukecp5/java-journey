@@ -1,3 +1,4 @@
+package individualAssignments.archive;
 import java.util.Scanner;
 
 public class IncomeTax {

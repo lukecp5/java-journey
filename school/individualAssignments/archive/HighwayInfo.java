@@ -1,4 +1,4 @@
-package school.individualAssignments;
+package individualAssignments.archive;
 
 import java.util.Scanner;
 
