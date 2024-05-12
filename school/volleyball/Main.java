@@ -1,4 +1,4 @@
-package individualAssignments.volleyball;
+package volleyball;
 
 import java.io.*;
 import java.util.Scanner;

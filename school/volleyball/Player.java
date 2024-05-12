@@ -1,4 +1,4 @@
-package individualAssignments.volleyball;
+package volleyball;
 
 class Player {
     private String name;

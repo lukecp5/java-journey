@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "iterateOverArray",
+            "request": "launch",
+            "mainClass": "iterateOverArray",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "MethodPractice",
+            "request": "launch",
+            "mainClass": "MethodPractice",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "FinalStudyGuide",
+            "request": "launch",
+            "mainClass": "FinalStudyGuide",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CheckDriveInUse",
+            "request": "launch",
+            "mainClass": "CheckDriveInUse",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "Driver",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "PlayerManager",
+            "request": "launch",
+            "mainClass": "PlayerManager",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "CreateObjectDemo",
+            "request": "launch",
+            "mainClass": "archive.CreateObjectDemo",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "DashCounter",
+            "request": "launch",
+            "mainClass": "archive.DashCounter",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "Decode",
+            "request": "launch",
+            "mainClass": "archive.Decode",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "IncomeTax",
+            "request": "launch",
+            "mainClass": "archive.IncomeTax",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "SmallestValues",
+            "request": "launch",
+            "mainClass": "archive.SmallestValues",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "archive.Solution",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "printfTest",
+            "request": "launch",
+            "mainClass": "archive.printfTest",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "truthy",
+            "request": "launch",
+            "mainClass": "archive.truthy",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "ArraysAndLoops",
+            "request": "launch",
+            "mainClass": "arrays.ArraysAndLoops",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "arrayList",
+            "request": "launch",
+            "mainClass": "arrays.arrayList",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "MessageDecoder",
+            "request": "launch",
+            "mainClass": "intermediate.MessageDecoder",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "intermediate.Recursion",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "passwordGenerator",
+            "request": "launch",
+            "mainClass": "intermediate.passwordGenerator",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "recursiveStringReverse",
+            "request": "launch",
+            "mainClass": "intermediate.recursiveStringReverse",
+            "projectName": "misc-practice_d9fc82c3"
+        },
+        {
+            "type": "java",
+            "name": "listIterator",
+            "request": "launch",
+            "mainClass": "iteratorsAndComparators.listIterator",
+            "projectName": "misc-practice_d9fc82c3"
+        }
+    ]
+}

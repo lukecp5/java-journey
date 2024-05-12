@@ -24,6 +24,19 @@ public class SmallTowns {
     }
 
     public int findMaximumCityPopulation() {
+        int maxPopulation;
+        int maxPopulationIndex;
+        int i;
+
+        maxPopulation = cityList.get(0).getPopulation();
+        maxPopulationIndex = 0;
+        for (i = 1; i < cityList.size(); ++i) {
+            if (cityList.get(i).getPopulation() > maxPopulation) {
+                maxPopulation = cityList.get(i).getPopulation();
+                maxPopulationIndex = i;
+            }
+        }
+        return maxPopulation;
     };
 
 }

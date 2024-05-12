@@ -1,4 +1,4 @@
-package individualAssignments.volleyball;
+package volleyball;
 
 import java.util.ArrayList;
 import java.io.FileInputStream;
@@ -15,7 +15,7 @@ class Roster {
     public Roster(String file) throws FileNotFoundException {
         playerList = new ArrayList<Player>();
 
-        FileInputStream fis = new FileInputStream("individualAssignments/" + file);
+        FileInputStream fis = new FileInputStream("individualAssignments/volleyball/" + file);
         Scanner in = new Scanner(fis);
 
         while (in.hasNextLine()) {

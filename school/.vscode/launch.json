@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FlowControl",
+            "request": "launch",
+            "mainClass": "finalPrep.FlowControl",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "FlowControl",
+            "request": "launch",
+            "mainClass": "FlowControl",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "individualAssignments.volleyball.Main",
+            "projectName": "school_4783e38d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
